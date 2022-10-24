@@ -13,7 +13,7 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     public function index(Request $request){
-        $data = "Hello from Suman";
+        $data = "Hello from ";
         return view('frontend.home',compact('data'));
     }
 
