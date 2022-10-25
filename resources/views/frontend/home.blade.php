@@ -6,5 +6,5 @@
 
 @include('frontend.include/footer')
 <p>
-    this is github auto merge test
+    this is github auto merge test 2
 </p>
