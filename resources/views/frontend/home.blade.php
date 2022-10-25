@@ -5,3 +5,6 @@
 </div>
 
 @include('frontend.include/footer')
+<p>
+    this is github auto merge test
+</p>
