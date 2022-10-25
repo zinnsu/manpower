@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # You can setup schedule here
-    - cron: '1  * * *'
+    - cron: '5 * * * *'
 
 env:
   # replace "zinnsu" with your GitHub username 
